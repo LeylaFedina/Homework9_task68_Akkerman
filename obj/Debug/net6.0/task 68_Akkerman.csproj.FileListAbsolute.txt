@@ -1,0 +1,15 @@
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 68_Akkerman\bin\Debug\net6.0\task 68_Akkerman.exe
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 68_Akkerman\bin\Debug\net6.0\task 68_Akkerman.deps.json
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 68_Akkerman\bin\Debug\net6.0\task 68_Akkerman.runtimeconfig.json
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 68_Akkerman\bin\Debug\net6.0\task 68_Akkerman.dll
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 68_Akkerman\bin\Debug\net6.0\task 68_Akkerman.pdb
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 68_Akkerman\obj\Debug\net6.0\task 68_Akkerman.csproj.AssemblyReference.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 68_Akkerman\obj\Debug\net6.0\task 68_Akkerman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 68_Akkerman\obj\Debug\net6.0\task 68_Akkerman.AssemblyInfoInputs.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 68_Akkerman\obj\Debug\net6.0\task 68_Akkerman.AssemblyInfo.cs
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 68_Akkerman\obj\Debug\net6.0\task 68_Akkerman.csproj.CoreCompileInputs.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 68_Akkerman\obj\Debug\net6.0\task 68_Akkerman.dll
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 68_Akkerman\obj\Debug\net6.0\refint\task 68_Akkerman.dll
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 68_Akkerman\obj\Debug\net6.0\task 68_Akkerman.pdb
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 68_Akkerman\obj\Debug\net6.0\task 68_Akkerman.genruntimeconfig.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 68_Akkerman\obj\Debug\net6.0\ref\task 68_Akkerman.dll
